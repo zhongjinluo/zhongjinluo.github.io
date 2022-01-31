@@ -27,6 +27,7 @@ Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
 
+<div>
 <img style="float: left; width: 15%" src="hyximages/edu/BIT.jpeg">
 
 <p style="line-height:125%">
@@ -34,7 +35,9 @@ Education Experience
   <font size="2">September 2018 - June 2022 (Expected)<br></font> 
   <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
   <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
-</p>
+</p>  
+</div>
+
 
 
 
@@ -45,6 +48,15 @@ Education Experience
 Publications
 ------
 
+<div>
+<img style="float: left; width: 15%" src="hyximages/pub/ijcai21-IALS.gif">
+
+<p style="line-height:125%">
+  <font size="4"><b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b><br></font> 
+  <font size="2"><b>Yuxuan Han</b>, <a fref="http://jlyang.org/">Jiaolong Yang</a>, <a fref="https://ying-fu.github.io/">Ying Fu</a></font> 
+  <font size="2"><a fref="https://arxiv.org/abs/2105.12660">Paper</a>, <a fref="https://github.com/yxuhan/IALS">code</a></font>
+</p>
+</div>
 
 <!-- Professional Experience
 ------ -->
