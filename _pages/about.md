@@ -33,7 +33,7 @@ Education Experience
   <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
   <font size="2">September 2018 - June 2022 (Expected)<br></font> 
   <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
-  <font size="2"> <b>GPA 90.0, rank 2/56</b> linewidth 125 <br></font>
+  <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
 </p>
 
 
@@ -63,4 +63,4 @@ Honors & Awards
 <!-- ############## -->
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script> -->
