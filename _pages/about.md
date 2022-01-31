@@ -25,7 +25,7 @@ News
 
 Education Experience
 ------
-<img style="float: left; width: 15%" src="images/_hyximages/edu/BIT.jpeg">
+<img style="float: left; width: 15%" src="hyximages/edu/BIT.jpeg">
 
 ### **Beijing Institute of Technology, Beijing, China**
 September 2018 - June 2022 (Expected) <br>
