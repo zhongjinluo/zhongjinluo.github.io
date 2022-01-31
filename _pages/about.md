@@ -1,17 +1,3 @@
-<head>
-  .column {
-    float: left;
-  }
-
-  .left {
-    width: 25%;
-  }
-
-  .right {
-    width: 75%;
-  }
-</head>
-
 ---
 permalink: /
 title: "About me"
@@ -62,11 +48,11 @@ Education Experience
 Publications
 ------
 
-<div>
-<div class="column left">
+<div class="row>
+<div class="column" style="width:25%">
   <img style="float: left; width: 25%" src="hyximages/pub/ijcai21-IALS.gif">
 </div>
-<div class="column right"></div>
+<div class="column" style="width:75%"></div>
   <p style="line-height:125%">
     <font size="4">
       <!-- &nbsp;&nbsp;&nbsp;&nbsp; -->
