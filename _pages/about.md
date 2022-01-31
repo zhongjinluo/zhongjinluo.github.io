@@ -29,10 +29,13 @@ Education Experience
 
 <img style="float: left; width: 15%" src="hyximages/edu/BIT.jpeg">
 
-<font size="3"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
-<font size="1">September 2018 - June 2022 (Expected)<br></font> 
-<font size="1">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
-<font size="1"> <b>GPA 90.0, rank 2/56.</b> <br></font>
+<p style="line-height:80%">
+  <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
+  <font size="2">September 2018 - June 2022 (Expected)<br></font> 
+  <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
+  <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
+</p>
+
 
 
 <!-- ############## -->
