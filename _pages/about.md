@@ -7,27 +7,49 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a four-year undergraduate student at [Beijing Institute of Technology (BIT)](http://www.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
+I am currently a four-year undergraduate student at [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
 My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling.
 
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
+<!-- ############## -->
+<!-- news -->
+<!-- ############## -->
 News
 ------
 * One paper accepted to IJCAI2021.
 
+<!-- ############## -->
+<!-- education -->
+<!-- ############## -->
 Education Experience
 ------
+<img style="float: left; width: 15%" src="_hyximages\edu\BIT.jpeg">
+
+### **Beijing Institute of Technology, Beijing, China**
+September 2018 - Now <br>
+B.E. in Computer Science at [Xu Class](https://xuteli.bit.edu.cn/) <br>
+GPA 90.0, rank 2/56.
 
 
+<!-- ############## -->
+<!-- publications -->
+<!-- ############## -->
 Publications
 ------
 
 
-Professional Experience
-------
+<!-- Professional Experience
+------ -->
 
+<!-- ############## -->
+<!-- honors and awards -->
+<!-- ############## -->
 Honors & Awards
 ------
 * National Scholarship, 2020
 
+
+<!-- ############## -->
+<!-- visit map -->
+<!-- ############## -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script>
