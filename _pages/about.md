@@ -48,7 +48,7 @@ Education Experience
 Publications
 ------
 
-<div class="row>
+<div class="row">
 <div class="column" style="width:25%">
   <img style="float: left; width: 25%" src="hyximages/pub/ijcai21-IALS.gif">
 </div>
