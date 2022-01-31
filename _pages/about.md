@@ -25,7 +25,7 @@ News
 
 Education Experience
 ------
-<img style="float: left; width: 15%" src="..\_hyximages\edu\BIT.jpeg">
+<img style="float: left; width: 15%" src="_hyximages/edu/BIT.jpeg">
 
 ### **Beijing Institute of Technology, Beijing, China**
 September 2018 - June 2022 (Expected) <br>
@@ -36,6 +36,7 @@ B.E. in Computer Science at [Xu Class](https://xuteli.bit.edu.cn/) <br>
 <!-- ############## -->
 <!-- publications -->
 <!-- ############## -->
+
 Publications
 ------
 
