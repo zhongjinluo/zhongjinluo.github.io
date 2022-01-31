@@ -60,8 +60,8 @@ Publications
   <font size="2">
     &nbsp&nbsp&nbsp&nbsp
     <b>Yuxuan Han</b>, 
-    <a fref="http://jlyang.org/">Jiaolong Yang</a>, 
-    <a fref="https://ying-fu.github.io/">Ying Fu</a>
+    <a href="http://jlyang.org/">Jiaolong Yang</a>, 
+    <a href="https://ying-fu.github.io/">Ying Fu</a>
     <br>
   </font> 
   <font size="2">
@@ -71,8 +71,8 @@ Publications
   </font> 
   <font size="2">
     &nbsp&nbsp&nbsp&nbsp
-    <a fref="https://arxiv.org/abs/2105.12660">Paper</a>, 
-    <a fref="https://github.com/yxuhan/IALS">code</a>
+    <a href="https://arxiv.org/abs/2105.12660">Paper</a>, 
+    <a href="https://github.com/yxuhan/IALS">code</a>
   </font>
 </p>
 </div>
