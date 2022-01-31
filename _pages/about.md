@@ -14,6 +14,7 @@ My research interests lies at the intersection of machine learning, computer vis
 <!-- ############## -->
 <!-- news -->
 <!-- ############## -->
+
 News
 ------
 * One paper accepted to IJCAI2021.
@@ -21,14 +22,15 @@ News
 <!-- ############## -->
 <!-- education -->
 <!-- ############## -->
+
 Education Experience
 ------
-<img style="float: left; width: 15%" src="_hyximages\edu\BIT.jpeg">
+<img style="float: left; width: 15%" src="..\_hyximages\edu\BIT.jpeg">
 
 ### **Beijing Institute of Technology, Beijing, China**
-September 2018 - Now <br>
+September 2018 - June 2022 (Expected) <br>
 B.E. in Computer Science at [Xu Class](https://xuteli.bit.edu.cn/) <br>
-GPA 90.0, rank 2/56.
+**GPA 90.0, rank 2/56.**
 
 
 <!-- ############## -->
@@ -44,6 +46,7 @@ Publications
 <!-- ############## -->
 <!-- honors and awards -->
 <!-- ############## -->
+
 Honors & Awards
 ------
 * National Scholarship, 2020
@@ -52,4 +55,6 @@ Honors & Awards
 <!-- ############## -->
 <!-- visit map -->
 <!-- ############## -->
+
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Fch6zw-5NWNC1a84KykNSk5ZiFnS_zW_YGiC2lsOlfI&cl=ffffff&w=a"></script>
