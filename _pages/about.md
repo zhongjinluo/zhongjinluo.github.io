@@ -53,24 +53,24 @@ Publications
 
 <p style="line-height:125%">
   <font size="4">
-    &nbsp&nbsp&nbsp&nbsp
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
     <br>
   </font> 
   <font size="2">
-    &nbsp&nbsp&nbsp&nbsp
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <b>Yuxuan Han</b>, 
     <a href="http://jlyang.org/">Jiaolong Yang</a>, 
     <a href="https://ying-fu.github.io/">Ying Fu</a>
     <br>
   </font> 
   <font size="2">
-    &nbsp&nbsp&nbsp&nbsp
+    &nbsp;&nbsp;&nbsp;&nbsp;
     International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
     <br>
   </font> 
   <font size="2">
-    &nbsp&nbsp&nbsp&nbsp
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://arxiv.org/abs/2105.12660">Paper</a>, 
     <a href="https://github.com/yxuhan/IALS">code</a>
   </font>
