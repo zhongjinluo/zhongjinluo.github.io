@@ -49,7 +49,7 @@ Publications
 ------
 
 <div>
-  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="150px" border="10px solid rgba(255,255,255,0)">
+  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px" border="10px">
   <!-- <img style="float: left; width: 100px, border:10px" src="hyximages/pub/ijcai21-IALS.gif"> -->
 </div>
 <div>
