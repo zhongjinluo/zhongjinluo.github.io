@@ -29,7 +29,7 @@ Education Experience
 
 <img style="float: left; width: 15%" src="hyximages/edu/BIT.jpeg">
 
-<p style="line-height:80%">
+<p style="line-height:90%">
   <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
   <font size="2">September 2018 - June 2022 (Expected)<br></font> 
   <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
