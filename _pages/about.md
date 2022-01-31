@@ -49,12 +49,31 @@ Publications
 ------
 
 <div>
-<img style="float: left; width: 15%" src="hyximages/pub/ijcai21-IALS.gif">
+<img style="float: left; width: 25%" src="hyximages/pub/ijcai21-IALS.gif">
 
 <p style="line-height:125%">
-  <font size="4"><b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b><br></font> 
-  <font size="2"><b>Yuxuan Han</b>, <a fref="http://jlyang.org/">Jiaolong Yang</a>, <a fref="https://ying-fu.github.io/">Ying Fu</a></font> 
-  <font size="2"><a fref="https://arxiv.org/abs/2105.12660">Paper</a>, <a fref="https://github.com/yxuhan/IALS">code</a></font>
+  <font size="4">
+    &nbsp&nbsp&nbsp&nbsp
+    <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
+    <br>
+  </font> 
+  <font size="2">
+    &nbsp&nbsp&nbsp&nbsp
+    <b>Yuxuan Han</b>, 
+    <a fref="http://jlyang.org/">Jiaolong Yang</a>, 
+    <a fref="https://ying-fu.github.io/">Ying Fu</a>
+    <br>
+  </font> 
+  <font size="2">
+    &nbsp&nbsp&nbsp&nbsp
+    International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
+    <br>
+  </font> 
+  <font size="2">
+    &nbsp&nbsp&nbsp&nbsp
+    <a fref="https://arxiv.org/abs/2105.12660">Paper</a>, 
+    <a fref="https://github.com/yxuhan/IALS">code</a>
+  </font>
 </p>
 </div>
 
