@@ -50,12 +50,12 @@ Publications
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../hyximages/border.png" width="10px" height="120px">
+  <img style="float: left" src="../hyximages/border.png" width="10px" height="175px">
 </div>
 <div>
   <p style="line-height:125%">
     <font size="4">
-      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search RESIZE 120</b>
+      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search RESIZE 175</b>
       <br>
     </font> 
     <font size="2">
