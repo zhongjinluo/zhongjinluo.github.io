@@ -55,7 +55,7 @@ Publications
 <div>
   <p style="line-height:125%">
     <font size="4">
-      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search REPEAT</b>
+      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search RESIZE</b>
       <br>
     </font> 
     <font size="2">
