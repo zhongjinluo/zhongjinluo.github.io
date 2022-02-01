@@ -27,10 +27,10 @@ Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
 
-<table>
+<table frame=void rules=none>
   <tr>
     <td>
-      <img style="width: 80px" src="../hyximages/edu/BIT.jpeg">
+      <img style="width: 80px; float:center" src="../hyximages/edu/BIT.jpeg">
     </td>
     <td>
       <p style="line-height:125%">
@@ -51,10 +51,10 @@ Education Experience
 Publications
 ------
 
-<table>
+<table frame=void rules=none>
   <tr>
     <td>
-    <img src="../hyximages/pub/ijcai21-IALS.gif" width="180px">
+    <img src="../hyximages/pub/ijcai21-IALS.gif" width="180px" style="float:center">
     </td>
     <td>
       <p style="line-height:125%">
