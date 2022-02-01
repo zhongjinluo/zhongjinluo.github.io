@@ -69,7 +69,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2105.12660">[paper]</a>, / 
+      <a href="https://arxiv.org/abs/2105.12660">[paper]</a> / 
       <a href="https://github.com/yxuhan/IALS">[code]</a>
     </font>
   </p>
