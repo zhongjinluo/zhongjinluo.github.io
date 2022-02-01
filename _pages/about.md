@@ -29,7 +29,7 @@ Education Experience
 
 <div>
 <img style="float: left; width: 15%" src="../hyximages/edu/BIT.jpeg">
-
+<img style="float: left" src="../hyximages/border.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
   <font size="2">September 2018 - June 2022 (Expected)<br></font> 
@@ -50,7 +50,7 @@ Publications
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
+  <img style="float: left" src="../hyximages/border.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
@@ -76,33 +76,6 @@ Publications
 </div>
 
 <!-- **** -->
-
-<!-- <div>
-  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px"> -->
-<!-- </div>
-<div>
-  <p style="line-height:125%">
-    <font size="4">
-      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
-      <br>
-    </font> 
-    <font size="2">
-      <b>Yuxuan Han</b>, 
-      <a href="http://jlyang.org/">Jiaolong Yang</a>, 
-      <a href="https://ying-fu.github.io/">Ying Fu</a>
-      <br>
-    </font> 
-    <font size="2">
-      International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2105.12660">Paper</a>, 
-      <a href="https://github.com/yxuhan/IALS">code</a>
-    </font>
-  </p>
-</div> -->
-
 
 <!-- Professional Experience
 ------ -->
