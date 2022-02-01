@@ -38,6 +38,17 @@ Education Experience
 </p>  
 </div>
 
+<div>
+<img style="float: left; width: 75px" src="../hyximages/edu/BIT.jpeg">
+<img style="float: left" src="../hyximages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
+  <font size="2">September 2018 - June 2022 (Expected)<br></font> 
+  <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
+  <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
+</p>  
+</div>
+
 
 <!-- ############## -->
 <!-- publications -->
@@ -55,7 +66,7 @@ Publications
 <div>
   <p style="line-height:125%">
     <font size="4">
-      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search RESIZE 175</b>
+      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
       <br>
     </font> 
     <font size="2">
@@ -69,8 +80,37 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2105.12660">Paper</a>, 
-      <a href="https://github.com/yxuhan/IALS">code</a>
+      <a href="https://arxiv.org/abs/2105.12660">[paper]</a>, / 
+      <a href="https://github.com/yxuhan/IALS">[code]</a>
+    </font>
+  </p>
+</div>
+
+<div>
+  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../hyximages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yuxuan Han</b>, 
+      <a href="http://jlyang.org/">Jiaolong Yang</a>, 
+      <a href="https://ying-fu.github.io/">Ying Fu</a>
+      <br>
+    </font> 
+    <font size="2">
+      International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2105.12660">[paper]</a>, / 
+      <a href="https://github.com/yxuhan/IALS">[code]</a>
     </font>
   </p>
 </div>
