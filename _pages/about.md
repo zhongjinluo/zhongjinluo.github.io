@@ -47,9 +47,36 @@ Publications
 ------
 
 <div>
-  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
-  <!-- <img style="float: left; width: 100px, border:10px" src="hyximages/pub/ijcai21-IALS.gif"> -->
+  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px" border="10">
 </div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search BORDER</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yuxuan Han</b>, 
+      <a href="http://jlyang.org/">Jiaolong Yang</a>, 
+      <a href="https://ying-fu.github.io/">Ying Fu</a>
+      <br>
+    </font> 
+    <font size="2">
+      International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2105.12660">Paper</a>, 
+      <a href="https://github.com/yxuhan/IALS">code</a>
+    </font>
+  </p>
+</div>
+
+<!-- **** -->
+
+<!-- <div>
+  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px"> -->
+<!-- </div>
 <div>
   <p style="line-height:125%">
     <font size="4">
@@ -71,36 +98,7 @@ Publications
       <a href="https://github.com/yxuhan/IALS">code</a>
     </font>
   </p>
-</div>
-
-****
-
-<div>
-  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
-  <!-- <img style="float: left; width: 100px, border:10px" src="hyximages/pub/ijcai21-IALS.gif"> -->
-</div>
-<div>
-  <p style="line-height:125%">
-    <font size="4">
-      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
-      <br>
-    </font> 
-    <font size="2">
-      <b>Yuxuan Han</b>, 
-      <a href="http://jlyang.org/">Jiaolong Yang</a>, 
-      <a href="https://ying-fu.github.io/">Ying Fu</a>
-      <br>
-    </font> 
-    <font size="2">
-      International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2105.12660">Paper</a>, 
-      <a href="https://github.com/yxuhan/IALS">code</a>
-    </font>
-  </p>
-</div>
+</div> -->
 
 
 <!-- Professional Experience
