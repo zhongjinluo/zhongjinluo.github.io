@@ -29,7 +29,7 @@ Education Experience
 
 <div>
 <img style="float: left; width: 75px" src="../hyximages/edu/BIT.jpeg">
-<img style="float: left" src="../hyximages/border.png" width="10px" height="60px">
+<img style="float: left" src="../hyximages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
   <font size="2">September 2018 - June 2022 (Expected)<br></font> 
@@ -50,7 +50,7 @@ Publications
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../hyximages/border.png" width="10px" height="175px">
+  <img style="float: left" src="../hyximages/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
