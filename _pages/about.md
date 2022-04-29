@@ -77,8 +77,6 @@ Publications
   </p>
 </div>
 
-<br>
-
 <div>
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
 </div>
@@ -130,7 +128,7 @@ Professional Experience
 
 Honors & Awards
 ------
-* Xu Scholarship Nomination (the highest honor in BIT, 20 candidates per year), 2021
+* Xu Scholarship Nomination (the highest honor in [BIT](https://english.bit.edu.cn/), 20 candidates per year), 2021
 * National Scholarship, 2020
 
 
