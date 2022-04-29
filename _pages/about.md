@@ -17,7 +17,8 @@ My research interests lies at the intersection of machine learning, computer vis
 
 News
 ------
-* One paper accepted to IJCAI2021.
+* [2022.4] One paper accepted to SIGGRAPH 2022.
+* [2021.5] One paper accepted to IJCAI2021.
 
 <!-- ############## -->
 <!-- education -->
@@ -45,6 +46,38 @@ Education Experience
 
 Publications
 ------
+
+<div>
+  <img style="float: left" src="../hyximages/pub/siggraph22-AdaMPI.gif" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../hyximages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yuxuan Han</b>, 
+      <a href="https://github.com/EasternJournalist">Ruicheng Wang</a>,
+      <a href="http://jlyang.org/">Jiaolong Yang</a> 
+      <br>
+    </font> 
+    <font size="2">
+      <b>ACM SIGGRAPH</b>, 2022 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="">[paper]</a> / 
+      <a href="">[project]</a> /
+      <a href="">[code]</a>
+    </font>
+  </p>
+</div>
+
+<br>
 
 <div>
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
@@ -77,8 +110,19 @@ Publications
 
 <!-- **** -->
 
-<!-- Professional Experience
------- -->
+Professional Experience
+------
+<div>
+<img style="float: left; width: 75px" src="../hyximages/prof/Microsoft.png">
+<img style="float: left" src="../hyximages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>Microsoft Research Asia, Beijing, China</b><br></font> 
+  <font size="2">December 2021 - April 2022<br></font> 
+  <font size="2">Research Intern at Internet Graphics Group<br></font>
+  <font size="2"> Mentored by <a href="http://jlyang.org/">Jiaolong Yang</a></font>
+</p>  
+</div>
+
 
 <!-- ############## -->
 <!-- honors and awards -->
@@ -86,6 +130,7 @@ Publications
 
 Honors & Awards
 ------
+* Xu Scholarship Nomination (the highest honor in BIT, 20 candidates per year), 2021
 * National Scholarship, 2020
 
 
