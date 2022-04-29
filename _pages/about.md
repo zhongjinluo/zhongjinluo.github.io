@@ -17,8 +17,8 @@ My research interests lies at the intersection of machine learning, computer vis
 
 News
 ------
-* [2022.4] One paper accepted to SIGGRAPH 2022.
-* [2021.5] One paper accepted to IJCAI2021.
+* [2022.4] One paper accepted to SIGGRAPH'2022.
+* [2021.5] One paper accepted to IJCAI'2021.
 
 <!-- ############## -->
 <!-- education -->
