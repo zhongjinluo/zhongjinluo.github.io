@@ -71,7 +71,7 @@ Publications
     </font> 
     <font size="2">
       <a href="">[paper]</a> / 
-      <a href="../project/2022-SIGGRAPH-AdaMPI/index.html">[project]</a> /
+      <a href="../AdaMPI/index.html">[project]</a> /
       <a href="">[code]</a>
     </font>
   </p>
