@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Yuxuan Han"
   avatar           : "../hyximages/hyx.png"
-  bio              : "A four-year undergraduate student at Beijing Institute of Technology"
+  bio              : ""
+  # bio              : "A four-year undergraduate student at Beijing Institute of Technology"
   location         : "China"
   employer         :
   pubmed           : # ""
