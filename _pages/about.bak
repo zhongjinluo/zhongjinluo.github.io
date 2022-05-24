@@ -1,12 +1,3 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 I am currently a four-year undergraduate student at [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
 My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling.
 
