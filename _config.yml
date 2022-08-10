@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yuxuan Han"
   avatar           : "../hyximages/hyx.png"
-  bio              : ""
-  # bio              : "A four-year undergraduate student at Beijing Institute of Technology"
-  location         : "China"
+  # bio              : ""
+  bio              : "Ph.D. student @ Tsinghua University. My research focuses on neural rendering and 3D computer vision."
+  location         : "Beijing, China"
   employer         :
   pubmed           : # ""
   googlescholar    : "https://scholar.google.com/citations?user=Nn1AeO4AAAAJ&hl=zh-CN&oi=sra"
-  email            : "hanyuxuan@bit.edu.cn"
+  email            : "hanyx22@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

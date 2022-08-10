@@ -1,4 +1,6 @@
-I am currently a four-year undergraduate student at [Beijing Institute of Technology (BIT)](https://english.bit.edu.cn/), under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
+I am currently a first-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Feng Xu](http://xufeng.site/).
+Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/english/index.htm)) from [Beijing Institute of Technology](https://english.bit.edu.cn/) at 2022, under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
+
 My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling.
 
 
@@ -8,7 +10,7 @@ My research interests lies at the intersection of machine learning, computer vis
 
 News
 ------
-* [2022.4] One paper accepted to SIGGRAPH'2022.
+* [2022.5] One paper accepted to SIGGRAPH'2022.
 * [2021.5] One paper accepted to IJCAI'2021.
 
 <!-- ############## -->
@@ -18,13 +20,22 @@ News
 Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
+<div>
+<img style="float: left; width: 75px" src="../hyximages/edu/THU.jpeg">
+<img style="float: left" src="../hyximages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
+  <font size="2">September 2022 -  <br></font> 
+  <font size="2">Ph.D. in Software Engineering at <a href="https://www.thss.tsinghua.edu.cn/en/">School of Software</a><br></font>
+</p>  
+</div>
 
 <div>
 <img style="float: left; width: 75px" src="../hyximages/edu/BIT.jpeg">
 <img style="float: left" src="../hyximages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
-  <font size="2">September 2018 - June 2022 (Expected)<br></font> 
+  <font size="2">September 2018 - June 2022<br></font> 
   <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
   <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
 </p>  
@@ -61,9 +72,9 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="">[paper]</a> / 
+      <a href="https://arxiv.org/abs/2205.11733">[paper]</a> / 
       <a href="../AdaMPI/index.html">[project]</a> /
-      <a href="">[code]</a>
+      <a href="https://github.com/yxuhan/AdaMPI">[code]</a>
     </font>
   </p>
 </div>
