@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About Me"
+excerpt: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am currently a first-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Feng Xu](http://xufeng.site/).
 Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/english/index.htm)) from [Beijing Institute of Technology](https://english.bit.edu.cn/) at 2022, under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
 
