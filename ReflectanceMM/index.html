@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+
+<html>
+
+<head lang="en">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>ReflectanceMM</title>
+
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="../style/common/bootstrap.min.css">
+    <link rel="stylesheet" href="../style/common/font-awesome.min.css">
+    <link rel="stylesheet" href="../style/common/codemirror.min.css">
+    <link rel="stylesheet" href="../style/common/app.css">
+
+
+
+
+</head>
+
+<body>
+    <div class="container" id="main">
+        <div class="row">
+            <h1 class="col-md-20 text-center">
+                <br></br>
+                Learning a 3D Morphable Face Reflectance Model <br> from Low-cost Data <br>
+                <small>
+                    CVPR 2023
+                </small>
+            </h1>
+            <hr style="margin-top:0px">
+        </div>
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <ul class="list-inline">
+                    <li>
+                        <a href="https://yxuhan.github.io" style="font-size: 16px;">
+                            Yuxuan Han
+                        </a>
+                        <sup>1</sup>
+                    </li>
+                    <li>
+                        <a href="https://sireer.github.io/" style="font-size: 16px;">
+                            Zhibo Wang
+                        </a>
+                        <sup>2</sup>
+                    </li>
+                    <li>
+                        <a href="http://xufeng.site/" style="font-size: 16px;">
+                            Feng Xu
+                        </a>
+                        <sup>1</sup>
+                    </li>
+                    <a></a><br>
+                    <li>
+                        <sup>1</sup>
+                        <a href="https://www.tsinghua.edu.cn/en/" style="font-size: 16px;">
+                            Tsinghua Unviersity
+                        </a>
+                    </li>
+                    <li>
+                        <sup>2</sup>
+                        <a href="https://www.sensetime.com/en/" style="font-size: 16px;">
+                            Sensetime Research
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-4 col-md-offset-4 text-center">
+                <ul class="nav nav-pills nav-justified">
+                    <li>
+                        <a href="">
+                            <img src="./files/paper.png" height="60px">
+                            <h4><strong>Paper</strong></h4>
+                        </a>
+                    </li>
+
+                    <!-- <li>
+                        <a href="">
+                            <img src="../style/common/arxiv.png" height="60px">
+                            <h4><strong>ArXiv</strong></h4>
+                        </a>
+                    </li> -->
+
+                    <li>
+                        <a href="https://github.com/yxuhan/ReflectanceMM">
+                            <img src="../style/common/github.png" height="60px">
+                            <h4><strong>Code</strong></h4>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-center">
+                <!-- <div class="row">
+                    <div class="col-md-4">
+                        <img src="files/3dp1.gif" width="100%">
+                    </div>
+                    <div class="col-md-4">
+                        <img src="files/3dp2.gif" width="100%"> 
+                    </div>
+                    <div class="col-md-4">
+                        <img src="files/3dp3.gif" width="100%">
+                    </div>
+                </div> -->
+                
+                <br></br>
+                <h2>
+                    Abstract
+                </h2>
+                <hr style="margin-top:0px">
+                <p class="text-justify" style="font-size: 16px;">
+                    Modeling non-Lambertian effects such as facial specularity leads to a more realistic 3D Morphable Face Model. Existing works build parametric models for diffuse and specular albedo using Light Stage data. However, only diffuse and specular albedo cannot determine the full BRDF. In addition, the requirement of Light Stage data is hard to fulfill for the research communities. This paper proposes the first 3D morphable face reflectance model with spatially varying BRDF using only low-cost publicly-available data. We apply linear shiness weighting into parametric modeling to represent spatially varying specular intensity and shiness. Then an inverse rendering algorithm is developed to reconstruct the reflectance parameters from non-Light Stage data, which are used to train an initial morphable reflectance model. To enhance the model's generalization capability and expressive power, we further propose an update-by-reconstruction strategy to finetune it on in-the-wild datasets. Experimental results show that our method obtains decent face-rendering results with plausible specularities.
+                </p>
+            </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-center">
+                <br></br>
+                <h2>
+                    Overview
+                </h2>
+                <hr style="margin-top:0px">
+                <img src="./files/teaser.png" class="img-responsive" alt="overview"><br>
+                <p class="text-justify" style="font-size: 16px;">
+                    We propose the first 3D morphable face reflectance model (<b>ReflectanceMM</b>) with spatially varying BRDF and a technique to train the model with low-cost publicly-available data. We represent face reflectance as a Lambertian BRDF combined with the linear combination of Blinn-Phong BRDFs with different predefined specular exponents. The reflectance parameters for each face vertex are the diffuse albedo and a set of weights. We show the first 3 principal components of diffuse albedo and spatially varying weights here in non-linear sRGB space.
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-center">
+                <br></br>
+                <h2>
+                    OLAT Rendering Results
+                </h2>
+                <hr style="margin-top:0px">
+                <p class="text-justify" style="font-size: 16px;">
+                    We test our method on the challenging One-Light-At-a-Time (OLAT) setup. Our method can render decent high-frequency facial specularities.
+                </p>
+                <video style="width:100%;height:100%;" playsinline autoplay loop preload muted>
+                    <source src="./files/OLAT.mp4" type="video/mp4">
+                </video>
+                <hr style="margin-top:0px">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-center">
+                <br></br>
+                <h2>
+                    Face Relighting Results
+                </h2>
+                <hr style="margin-top:0px">
+                <p class="text-justify" style="font-size: 16px;">
+                    Our method can obtain realistic rendering results under real-world environment map.
+                </p>
+                <video style="width:100%;height:100%;" playsinline autoplay loop preload muted>
+                    <source src="./files/relight.mp4" type="video/mp4">
+                </video>
+                <hr style="margin-top:0px">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-center">
+                <br></br>
+                <h2>
+                    Comparison to Previous Morphable Face Model
+                </h2>
+                <hr style="margin-top:0px">
+                <p class="text-justify" style="font-size: 16px;">
+                    Compared to <a href="https://faces.dmi.unibas.ch/bfm/main.php?nav=1-0&id=basel_face_model">BFM09</a>, our method successfully render plausible facial specularities since we adopt a non-Lambertian reflectance representation. Compared to <a href="https://github.com/waps101/AlbedoMM">AlbedoMM</a>, our method achieves more realistic results since we can model both spatially varying specular intensity and shiness. <b>Please ignore the color difference and only focus on the distribution of facial specularities</b> since we do not have the ground truth light color information of the Multi-PIE dataset; we render our method and the competitors using the same white point light source for a fair comparison.
+                </p>
+                <video style="width:100%;height:100%;" playsinline autoplay loop preload muted>
+                    <source src="./files/cmp_video.mp4" type="video/mp4">
+                </video>
+                <hr style="margin-top:0px">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0">
+                <div class="text-center">
+                    <h2>
+                        Citation
+                    </h2>
+                </div>
+                <hr style="margin-top:0px">
+                <div class="form-group col-md-12 col-md-offset-0">
+                    <div class="CodeMirror cm-s-default CodeMirror-wrap" style="font-size: 16px;">
+                        <div
+                            style="overflow: hidden; position: relative; width: 3px; height: 0px; top: 4px; left: 4px; ">
+                            <textarea autocorrect="off" autocapitalize="off" spellcheck="false"
+                                style="position: absolute; padding: 0px; width: 1000px; height: 1em; outline: none;"
+                                tabindex="0"></textarea></div>
+                        <div class="CodeMirror-vscrollbar" cm-not-content="true">
+                            <div style="min-width: 1px; height: 0px;"></div>
+                        </div>
+                        <div class="CodeMirror-hscrollbar" cm-not-content="true">
+                            <div style="height: 100%; min-height: 1px; width: 0px;"></div>
+                        </div>
+                        <div class="CodeMirror-scrollbar-filler" cm-not-content="true"></div>
+                        <div class="CodeMirror-gutter-filler" cm-not-content="true"></div>
+                        <div class="CodeMirror-scroll" tabindex="-1">
+                            <div class="CodeMirror-sizer"
+                                style="margin-left: 0px; margin-bottom: -17px; border-right-width: 13px; min-height: 162px; padding-right: 0px; padding-bottom: 0px;">
+                                <div style="position: relative; top: 0px;">
+                                    <div class="CodeMirror-lines">
+                                        <div style="position: relative; outline: none;">
+                                            <div class="CodeMirror-measure">AخA</div>
+                                            <div class="CodeMirror-measure"></div>
+                                            <div style="position: relative; z-index: 1;"></div>
+                                            <div class="CodeMirror-cursors">
+                                                <div class="CodeMirror-cursor"
+                                                    style="left: 4px; top: 0px; height: 17.1406px;">&nbsp;</div>
+                                            </div>
+                                            <div class="CodeMirror-code" style="">
+                                                <pre
+                                                    class=" CodeMirror-line "><span style="padding-right: 0.1px;">@inproceedings{han2023ReflectanceMM,</span></pre>
+                                                <pre
+                                                    class=" CodeMirror-line "><span style="padding-right: 0.1px;"> &nbsp;  author = {Han, Yuxuan and Wang, Zhibo and Xu, Feng},</span></pre>
+                                                <pre
+                                                    class=" CodeMirror-line "><span style="padding-right: 0.1px;"> &nbsp;  title = {Learning a 3D Morphable Face Reflectance Model from Low-cost Data},</span></pre>
+                                                <pre
+                                                    class=" CodeMirror-line "><span style="padding-right: 0.1px;"> &nbsp;  booktitle = {CVPR},</span></pre>
+                                                <pre
+                                                    class=" CodeMirror-line "><span style="padding-right: 0.1px;"> &nbsp;  year={2023}</span></pre>
+                                                <pre
+                                                    class=" CodeMirror-line "><span style="padding-right: 0.1px;">}</span></pre>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div style="position: absolute; height: 13px; width: 1px; top: 280px;"></div>
+                            <div class="CodeMirror-gutters" style="display: none; height: 300px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-center">
+                <br></br>
+                <h2>
+                    Acknowledgements
+                </h2>
+                <hr style="margin-top:0px">
+                <p class="text-justify" style="font-size: 16px;">
+                    The website template was adapted from <a href="https://yxuhan.github.io/AdaMPI/index.html">AdaMPI</a>.
+                </p>
+            </div>
+        </div>
+
+
+</body>
+
+</html>

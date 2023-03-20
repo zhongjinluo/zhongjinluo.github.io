@@ -20,8 +20,9 @@ My research interests lies at the intersection of machine learning, computer vis
 
 News
 ------
+* [2023.3] One paper accepted to CVPR'2023.
 * [2022.5] One paper accepted to SIGGRAPH'2022.
-* [2021.5] One paper accepted to IJCAI'2021.
+<!-- * [2021.5] One paper accepted to IJCAI'2021. -->
 
 <!-- ############## -->
 <!-- education -->
@@ -60,6 +61,36 @@ Publications
 ------
 
 <div>
+  <img style="float: left" src="../hyximages/pub/cvpr23-ReflectanceMM.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../hyximages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Learning a 3D Morphable Face Reflectance Model from Low-cost Data</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yuxuan Han</b>, 
+      <a href="https://sireer.github.io/">Zhibo Wang</a>,
+      <a href="http://xufeng.site/">Feng Xu</a> 
+      <br>
+    </font> 
+    <font size="2">
+      IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="">[paper]</a> / 
+      <a href="../ReflectanceMM/index.html">[project]</a> /
+      <a href="https://github.com/yxuhan/ReflectanceMM">[code]</a>
+    </font>
+  </p>
+</div>
+
+<div>
   <img style="float: left" src="../hyximages/pub/siggraph22-AdaMPI.gif" width="175px">
 </div>
 <div>
@@ -78,7 +109,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <b>ACM SIGGRAPH</b>, 2022 
+      <b>ACM SIGGRAPH (Conference Track)</b>, 2022 
       <br>
     </font> 
     <font size="2">
