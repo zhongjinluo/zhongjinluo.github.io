@@ -90,6 +90,8 @@ Publications
   </p>
 </div>
 
+<br>
+
 <div>
   <img style="float: left" src="../hyximages/pub/siggraph22-AdaMPI.gif" width="175px">
 </div>
@@ -119,6 +121,8 @@ Publications
     </font>
   </p>
 </div>
+
+<br>
 
 <div>
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
