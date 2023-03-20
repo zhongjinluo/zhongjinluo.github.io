@@ -125,7 +125,7 @@ Publications
 <br>
 
 <div>
-  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.gif" width="175px">
+  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.png" width="175px">
 </div>
 <div>
   <img style="float: left" src="../hyximages/border_row2.png" width="10px">
