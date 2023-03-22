@@ -83,7 +83,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="">[paper]</a> / 
+      <a href="https://arxiv.org/abs/2303.11686">[paper]</a> / 
       <a href="../ReflectanceMM/index.html">[project]</a> /
       <a href="https://github.com/yxuhan/ReflectanceMM">[code]</a>
     </font>
