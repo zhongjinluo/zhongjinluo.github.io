@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhongjin Luo 罗忠金"
-  avatar           : "../zjlimages/placeholder.jpeg"
+  avatar           : "../zjlimages/placeholder.png"
   # bio              : ""
   bio              : "Ph.D. student @ CUHK-Shenzhen. My research focuses on Sketch-based Modeling and 3D Content Generation."
   location         : "Shenzhen, China"
