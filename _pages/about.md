@@ -30,7 +30,7 @@ News
 
 Publications
 ------
-<!-- <div>
+<div>
   <img style="float: left" src="../hyximages/pub/cvpr23-ReflectanceMM.png" width="175px">
 </div>
 <div>
@@ -39,13 +39,17 @@ Publications
 <div>
   <p style="line-height:125%">
     <font size="4">
-      <b>Learning a 3D Morphable Face Reflectance Model from Low-cost Data</b>
+      <b>RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
       <br>
     </font> 
     <font size="2">
-      <b>Yuxuan Han</b>, 
-      <a href="https://sireer.github.io/">Zhibo Wang</a>,
-      <a href="http://xufeng.site/">Feng Xu</a> 
+      <b>Zhongjin Luo*</b>, 
+      <b>Shengcai Cai*</b>, 
+      <b>Jinguo Dong</b>, 
+      <b>Ruibo Ming</b>, 
+      <b>Liangdong Qiu</b>, 
+      <a href="https://xiaohangzhan.github.io/">Xiaohang Zhan</a>,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a> 
       <br>
     </font> 
     <font size="2">
@@ -53,16 +57,16 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2303.11686">[paper]</a> / 
-      <a href="../ReflectanceMM/index.html">[project]</a> /
-      <a href="https://github.com/yxuhan/ReflectanceMM">[code]</a>
+      <a href="https://arxiv.org/abs/2303.12564">[paper]</a> / 
+      <a href="https://gaplab.cuhk.edu.cn/projects/RaBit/">[project]</a> /
+      <a href="https://github.com/zhongjinluo/RaBit">[code]</a>
     </font>
   </p>
 </div>
 
 <br>
 
-<div>
+<!-- <div>
   <img style="float: left" src="../hyximages/pub/siggraph22-AdaMPI.gif" width="175px">
 </div>
 <div>
@@ -139,7 +143,6 @@ Preprints
   <font size="2"> Mentored by <a href="http://jlyang.org/">Jiaolong Yang</a></font>
 </p>  
 </div> -->
-
 
 <!-- ############## -->
 <!-- education -->
