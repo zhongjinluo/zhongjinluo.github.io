@@ -15,6 +15,17 @@ My research interests lies at the intersection of machine learning, computer vis
 
 
 <!-- ############## -->
+<!-- interests -->
+<!-- ############## -->
+
+Interests
+------
+* Sketch-based 2D/3D Content Modeling
+* 3D Content Generation and Reconstruction
+* Shape Representation & Geometric Processing
+* MultiModal Learning
+
+<!-- ############## -->
 <!-- news -->
 <!-- ############## -->
 
@@ -231,11 +242,11 @@ Preprints
     </font>
   </p>
 </div>
+<br>
 
 <!-- ############## -->
 <!-- education -->
 <!-- ############## -->
-
 Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
