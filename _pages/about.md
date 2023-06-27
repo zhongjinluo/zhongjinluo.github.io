@@ -20,8 +20,8 @@ My research interests lies at the intersection of machine learning, computer vis
 
 News
 ------
-* [2023.3] One paper accepted to CVPR'2023.
-* [2022.5] One paper accepted to SIGGRAPH'2022.
+* [2023.3] One paper was accepted to CVPR'2023.
+<!-- * [2022.5] One paper accepted to SIGGRAPH'2022. -->
 <!-- * [2021.5] One paper accepted to IJCAI'2021. -->
 
 <!-- ############## -->
