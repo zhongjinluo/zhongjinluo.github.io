@@ -168,16 +168,37 @@ Publications
 
 Preprints
 ------
-<!-- <div>
-<img style="float: left; width: 75px" src="../hyximages/prof/Microsoft.png">
-<img style="float: left" src="../hyximages/border_row1.png" width="10px">
-<p style="line-height:125%">
-  <font size="4"><b>Microsoft Research Asia, Beijing, China</b><br></font> 
-  <font size="2">December 2021 - April 2022<br></font> 
-  <font size="2">Research Intern at Internet Graphics Group<br></font>
-  <font size="2"> Mentored by <a href="http://jlyang.org/">Jiaolong Yang</a></font>
-</p>  
-</div> -->
+<div>
+  <img style="float: left" src="../zjlimages/pub/CBCT.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>Learning Deep Intensity Field for Extremely Sparse-View CBCT Reconstruction</b>
+      <br>
+    </font> 
+    <font size="2">
+      Yiqun Lin,
+      <b>Zhongjin Luo</b>, 
+      Wei Zhao,
+      Xiaomeng Li
+      <br>
+    </font> 
+    <font size="2">
+      International Conference on Medical Image Computing&Computer Assisted Intervention (<b>MICCAI</b>), 2023
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2303.06681">[paper]</a> /
+      [project (coming soon...)] /
+      [code (coming soon...)]
+    </font>
+  </p>
+</div>
+<br>
 
 <!-- ############## -->
 <!-- education -->
