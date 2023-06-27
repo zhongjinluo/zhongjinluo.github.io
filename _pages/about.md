@@ -57,12 +57,12 @@ Publications
     </font> 
     <font size="2">
       <a href="../files/SketchMetaface.pdf">[paper]</a>
-      <a href="">[project]</a> /
-      <a href="">[code]</a>
+      [project (coming soon...)] /
+      [code (coming soon...)]
     </font>
   </p>
 </div>
-<br>
+<!-- <br> -->
 
 <div>
   <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
@@ -97,7 +97,7 @@ Publications
     </font>
   </p>
 </div>
-<br>
+<!-- <br> -->
 
 <div>
   <img style="float: left" src="../zjlimages/pub/SimpModeling.jpeg" width="175px">
@@ -131,7 +131,6 @@ Publications
     </font>
   </p>
 </div>
-<br>
 
 <!-- 
 <div>
