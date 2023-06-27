@@ -74,7 +74,7 @@ Publications
 <div>
   <p style="line-height:125%">
     <font size="4">
-      <b>SimpModeling: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
+      <b><i>SimpModeling</i>: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
       <br>
     </font> 
     <font size="2">
