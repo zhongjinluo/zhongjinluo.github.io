@@ -31,6 +31,40 @@ News
 Publications
 ------
 <div>
+  <img style="float: left" src="../zjlimages/pub/SketchMetaface.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b><i>SketchMetaFace</i>: A Learning-based Sketching Interface for High-fidelity 3D Character Face Modeling</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Zhongjin Luo</b>, 
+      Dong Du, 
+      Heming Zhu, 
+      <a href="https://i.cs.hku.hk/~yzyu/">Yizhou Yu</a>,
+      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>
+      <br>
+    </font> 
+    <font size="2">
+      Transactions on Visualization and Computer Graphics (<b>TVCG</b>), 2023
+      <br>
+    </font> 
+    <font size="2">
+      <a href="../files/SketchMetaface.pdf">[paper]</a>
+      <a href="">[project]</a> /
+      <a href="">[code]</a>
+    </font>
+  </p>
+</div>
+<br>
+
+<div>
   <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
 </div>
 <div>
@@ -39,7 +73,7 @@ Publications
 <div>
   <p style="line-height:118%">
     <font size="4">
-      <b>RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
+      <b><i>RaBit</i>: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
       <br>
     </font> 
     <font size="2">
@@ -63,8 +97,8 @@ Publications
     </font>
   </p>
 </div>
-
 <br>
+
 <div>
   <img style="float: left" src="../zjlimages/pub/SimpModeling.jpeg" width="175px">
 </div>
@@ -78,12 +112,12 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <b>Zhongjin Luo*</b>, 
+      <b>Zhongjin Luo</b>, 
       Jie Zhou, 
       Heming Zhu, 
       Dong Du, 
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>,
-      <a href="http://sweb.cityu.edu.hk/hongbofu/publications.html">Hongbo Fu</a>
+      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>
       <br>
     </font> 
     <font size="2">
@@ -97,8 +131,8 @@ Publications
     </font>
   </p>
 </div>
+<br>
 
-<!-- <br> -->
 <!-- 
 <div>
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.png" width="175px">
