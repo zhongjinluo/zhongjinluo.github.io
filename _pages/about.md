@@ -210,9 +210,10 @@ Preprints
     </font>
   </p>
 </div>
+<br>
 
 <div>
-  <img style="float: left" src="../zjlimages/pub/CBCT.png" width="175px">
+  <img style="float: left" src="../zjlimages/pub/GA-Sketching.png" width="175px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
@@ -242,7 +243,6 @@ Preprints
     </font>
   </p>
 </div>
-<br>
 
 <!-- ############## -->
 <!-- education -->
