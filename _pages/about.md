@@ -209,7 +209,6 @@ Preprints
     </font>
   </p>
 </div>
-<br>
 
 <!-- <div>
   <img style="float: left" src="../zjlimages/pub/GA-Sketching.png" width="175px">
