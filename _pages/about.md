@@ -211,7 +211,7 @@ Preprints
 </div>
 <br>
 
-<div>
+<!-- <div>
   <img style="float: left" src="../zjlimages/pub/GA-Sketching.png" width="175px">
 </div>
 <div>
@@ -241,7 +241,7 @@ Preprints
       [code]
     </font>
   </p>
-</div>
+</div> -->
 
 <!-- ############## -->
 <!-- education -->
@@ -250,7 +250,7 @@ Preprints
 Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\zjlimages\edu\BIT.jpeg"> -->
-<div>
+<!-- <div>
 <img style="float: left; width: 75px" src="../zjlimages/edu/THU.jpeg">
 <img style="float: left" src="../zjlimages/border_row1.png" width="10px">
 <p style="line-height:125%">
@@ -269,7 +269,7 @@ Education Experience
   <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
   <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
 </p>  
-</div>
+</div> -->
 
 
 <!-- ############## -->
