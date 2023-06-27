@@ -44,10 +44,10 @@ Publications
     </font> 
     <font size="2">
       <b>Zhongjin Luo*</b>, 
-      <b>Shengcai Cai*</b>, 
-      <b>Jinguo Dong</b>, 
-      <b>Ruibo Ming</b>, 
-      <b>Liangdong Qiu</b>, 
+      Shengcai Cai*, 
+      Jinguo Dong, 
+      Ruibo Ming, 
+      Liangdong Qiu, 
       <a href="https://xiaohangzhan.github.io/">Xiaohang Zhan</a>,
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a> 
       <br>
