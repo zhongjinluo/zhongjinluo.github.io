@@ -20,8 +20,8 @@ My research interests lies at the intersection of machine learning, computer vis
 
 News
 ------
-* [2023.06] One paper got accepted by TVCG 2023.
 * [2023.06] One paper got accepted by MICCAI 2023.
+* [2023.06] One paper got accepted by TVCG 2023.
 * [2023.03] One paper got accepted by CVPR 2023.
 
 
@@ -60,7 +60,6 @@ Education Experience
 
 Publications
 ------
-
 <!-- <div>
   <img style="float: left" src="../hyximages/pub/cvpr23-ReflectanceMM.png" width="175px">
 </div>
@@ -156,7 +155,7 @@ Publications
 
 <!-- **** -->
 
-Professional Experience
+Preprints
 ------
 <!-- <div>
 <img style="float: left; width: 75px" src="../hyximages/prof/Microsoft.png">
@@ -174,8 +173,8 @@ Professional Experience
 <!-- honors and awards -->
 <!-- ############## -->
 
-Honors & Awards
-------
+<!-- Honors & Awards -->
+<!-- ------ -->
 <!-- * Xu Scholarship Nomination (the highest honor in [BIT](https://english.bit.edu.cn/), 20 candidates per year), 2021
 * National Scholarship, 2020 -->
 
