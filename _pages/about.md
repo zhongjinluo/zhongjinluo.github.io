@@ -13,6 +13,8 @@ Before that, I received my B.S. degree of Computer Science ([Xuteli School](http
 
 My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling. -->
 
+I am currently a second-year Ph.D. student at the School of Science and Engineering of the Chinese University of Hong Kong (Shenzhen), under the supervision of <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a> at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab</a>. Prior to this, I received my B.S. degree in Software Engineering from Tongji University. My research interests lie in computer graphics and 3D deep learning, with a primary focus on 3D content generation and reconstruction. I am also collaborating closely with <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Prof. Hongbo Fu</a> at City University of Hong Kong.
+
 
 <!-- ############## -->
 <!-- interests -->
@@ -21,9 +23,8 @@ My research interests lies at the intersection of machine learning, computer vis
 Interests
 ------
 * Sketch-based 2D/3D Content Modeling
-* 3D Content Generation and Reconstruction
+* MultiModal 3D Content Generation and Reconstruction
 * Shape Representation & Geometric Processing
-* MultiModal Learning
 
 <!-- ############## -->
 <!-- news -->
