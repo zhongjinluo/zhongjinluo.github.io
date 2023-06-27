@@ -56,7 +56,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="../files/SketchMetaface.pdf">[paper]</a>
+      <a href="../files/SketchMetaface.pdf">[paper]</a> /
       [project (coming soon...)] /
       [code (coming soon...)]
     </font>
