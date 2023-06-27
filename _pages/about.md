@@ -31,7 +31,7 @@ News
 Publications
 ------
 <div>
-  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="190px">
+  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
@@ -65,9 +65,9 @@ Publications
 </div>
 
 <br>
-
+<!-- 
 <div>
-  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="190px">
+  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
