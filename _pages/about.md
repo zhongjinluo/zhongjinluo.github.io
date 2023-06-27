@@ -175,8 +175,8 @@ Professional Experience
 
 Honors & Awards
 ------
-* Xu Scholarship Nomination (the highest honor in [BIT](https://english.bit.edu.cn/), 20 candidates per year), 2021
-* National Scholarship, 2020
+<!-- * Xu Scholarship Nomination (the highest honor in [BIT](https://english.bit.edu.cn/), 20 candidates per year), 2021
+* National Scholarship, 2020 -->
 
 
 <!-- ############## -->
