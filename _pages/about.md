@@ -60,7 +60,7 @@ Education Experience
 Publications
 ------
 
-<div>
+<!-- <div>
   <img style="float: left" src="../hyximages/pub/cvpr23-ReflectanceMM.png" width="175px">
 </div>
 <div>
@@ -151,13 +151,13 @@ Publications
       <a href="https://github.com/yxuhan/IALS">[code]</a>
     </font>
   </p>
-</div>
+</div> -->
 
 <!-- **** -->
 
 Professional Experience
 ------
-<div>
+<!-- <div>
 <img style="float: left; width: 75px" src="../hyximages/prof/Microsoft.png">
 <img style="float: left" src="../hyximages/border_row1.png" width="10px">
 <p style="line-height:125%">
@@ -166,7 +166,7 @@ Professional Experience
   <font size="2">Research Intern at Internet Graphics Group<br></font>
   <font size="2"> Mentored by <a href="http://jlyang.org/">Jiaolong Yang</a></font>
 </p>  
-</div>
+</div> -->
 
 
 <!-- ############## -->
