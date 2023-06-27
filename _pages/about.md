@@ -31,13 +31,13 @@ News
 Publications
 ------
 <div>
-  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="250px">
+  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
 <div>
-  <p style="line-height:125%">
+  <p style="line-height:100%">
     <font size="4">
       <b>RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
       <br>
