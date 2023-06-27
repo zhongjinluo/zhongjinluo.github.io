@@ -210,8 +210,8 @@ Preprints
   </p>
 </div>
 
-<!-- <div>
-  <img style="float: left" src="../zjlimages/pub/GA-Sketching.png" width="175px">
+<div>
+  <img style="float: left" src="../zjlimages/pub/CBCT.png" width="175px">
 </div>
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
@@ -223,7 +223,7 @@ Preprints
       <br>
     </font> 
     <font size="2">
-      Jie Zhou, 
+      Jie Zhou,
       <b>Zhongjin Luo</b>, 
       <a href="https://yuqian1023.github.io/">Yu Qian</a>,
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>,
@@ -235,12 +235,13 @@ Preprints
       <br>
     </font> 
     <font size="2">
-      [paper] / 
-      [project] /
-      [code]
+      <a href="./">[paper]</a> /
+      [project (coming soon...)] /
+      [code (coming soon...)]
     </font>
   </p>
-</div> -->
+</div>
+<br>
 
 <!-- ############## -->
 <!-- education -->
