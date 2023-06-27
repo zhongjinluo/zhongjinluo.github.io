@@ -242,8 +242,8 @@ Preprints
 <!-- education -->
 <!-- ############## -->
 
-Education Experience
-------
+<!-- Education Experience -->
+<!-- ------ -->
 <!-- <img style="float: left; width: 15%" src="..\zjlimages\edu\BIT.jpeg"> -->
 <!-- <div>
 <img style="float: left; width: 75px" src="../zjlimages/edu/THU.jpeg">
