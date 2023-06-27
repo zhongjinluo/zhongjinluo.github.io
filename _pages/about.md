@@ -8,13 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am currently a first-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Feng Xu](http://xufeng.site/).
-Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/english/index.htm)) from [Beijing Institute of Technology](https://english.bit.edu.cn/) at 2022, under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
-
-My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling. -->
-
 I am currently a second-year Ph.D. student at the School of Science and Engineering of the Chinese University of Hong Kong (Shenzhen), under the supervision of <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a> at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab</a>. Prior to this, I received my B.S. degree in Software Engineering from Tongji University. My research interests lie in computer graphics and 3D deep learning, with a primary focus on 3D content generation and reconstruction. I am also collaborating closely with <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Prof. Hongbo Fu</a> at City University of Hong Kong.
-
 
 <!-- ############## -->
 <!-- interests -->
@@ -243,7 +237,6 @@ Preprints
     </font>
   </p>
 </div>
-<br>
 
 <!-- ############## -->
 <!-- education -->
