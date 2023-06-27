@@ -65,7 +65,6 @@ Publications
 </div>
 
 <br>
-<!-- 
 <div>
   <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
 </div>
@@ -75,13 +74,16 @@ Publications
 <div>
   <p style="line-height:125%">
     <font size="4">
-      <b>Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images</b>
+      <b>SimpModeling: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
       <br>
     </font> 
     <font size="2">
-      <b>Yuxuan Han</b>, 
-      <a href="https://github.com/EasternJournalist">Ruicheng Wang</a>,
-      <a href="http://jlyang.org/">Jiaolong Yang</a> 
+      <b>Zhongjin Luo*</b>, 
+      Jie Zhou, 
+      Heming Zhu, 
+      Dong Du, 
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>
+      <a href="http://sweb.cityu.edu.hk/hongbofu/publications.html">Hongbo Fu</a>
       <br>
     </font> 
     <font size="2">
@@ -89,14 +91,14 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2205.11733">[paper]</a> / 
-      <a href="../AdaMPI/index.html">[project]</a> /
-      <a href="https://github.com/yxuhan/AdaMPI">[code]</a>
+      <a href="https://arxiv.org/abs/2108.02548">[paper]</a> / 
+      <a href="https://zhongjinluo.github.io/SimpModeling/">[project]</a> /
+      <a href="https://zhongjinluo.github.io/SimpModeling/">[code]</a>
     </font>
   </p>
 </div>
 
-<br>
+<!-- <br> -->
 <!-- 
 <div>
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.png" width="175px">
