@@ -34,10 +34,10 @@ Publications
   <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
 <div>
-  <p style="line-height:125%">
+  <p style="line-height:118%">
     <font size="4">
       <b>RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
       <br>
@@ -69,10 +69,10 @@ Publications
   <img style="float: left" src="../zjlimages/pub/SimpModeling.jpeg" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="20px">
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
 <div>
-  <p style="line-height:125%">
+  <p style="line-height:118%">
     <font size="4">
       <b><i>SimpModeling</i>: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
       <br>
