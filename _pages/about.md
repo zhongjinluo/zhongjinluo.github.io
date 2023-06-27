@@ -42,7 +42,7 @@ Publications
       <b>RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
       <br>
     </font> 
-    <font size="2">
+    <font size="1">
       <b>Zhongjin Luo*</b>, 
       Shengcai Cai*, 
       Jinguo Dong, 
@@ -87,7 +87,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <b>ACM SIGGRAPH (Conference Track)</b>, 2022 
+      ACM Symposium on User Interface Software and Technology (<b>UIST</b>), 2021
       <br>
     </font> 
     <font size="2">
