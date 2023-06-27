@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Feng Xu](http://xufeng.site/).
+<!-- I am currently a first-year Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the supervision of Prof. [Feng Xu](http://xufeng.site/).
 Before that, I received my B.S. degree of Computer Science ([Xuteli School](https://xuteli.bit.edu.cn/english/index.htm)) from [Beijing Institute of Technology](https://english.bit.edu.cn/) at 2022, under the supervision of Prof. [Ying Fu](https://ying-fu.github.io/).
 
-My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling.
+My research interests lies at the intersection of machine learning, computer vision, and computer graphics, including neural rendering, visual geometric computing, and face modeling. -->
 
 
 <!-- ############## -->
@@ -31,7 +31,7 @@ News
 Education Experience
 ------
 <!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
-<div>
+<!-- <div>
 <img style="float: left; width: 75px" src="../hyximages/edu/THU.jpeg">
 <img style="float: left" src="../hyximages/border_row1.png" width="10px">
 <p style="line-height:125%">
@@ -50,7 +50,7 @@ Education Experience
   <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
   <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
 </p>  
-</div>
+</div> -->
 
 
 <!-- ############## -->
