@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuxuan Han"
+title                    : "Zhongjin Luo"
 title_separator          : "-"
-name                     : &name "Yuxuan Han"
+name                     : &name "Zhongjin Luo"
 description              : &description "personal description"
-url                      : https://yxuhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhongjinluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yxuhan/yxuhan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuxuan Han"
+  name             : "Zhongjin Luo"
   avatar           : "../hyximages/hyx.png"
   # bio              : ""
   bio              : "Ph.D. student @ Tsinghua University. My research focuses on neural rendering and 3D computer vision."
