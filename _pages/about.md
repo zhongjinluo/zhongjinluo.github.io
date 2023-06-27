@@ -145,10 +145,10 @@ Publications
 
 <!-- 
 <div>
-  <img style="float: left" src="../hyximages/pub/ijcai21-IALS.png" width="175px">
+  <img style="float: left" src="../zjlimages/pub/ijcai21-IALS.png" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../hyximages/border_row2.png" width="10px">
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
@@ -242,17 +242,17 @@ Preprints
     </font>
   </p>
 </div>
-<br>
 
 <!-- ############## -->
 <!-- education -->
 <!-- ############## -->
+
 Education Experience
 ------
-<!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
-<!-- <div>
-<img style="float: left; width: 75px" src="../hyximages/edu/THU.jpeg">
-<img style="float: left" src="../hyximages/border_row1.png" width="10px">
+<!-- <img style="float: left; width: 15%" src="..\zjlimages\edu\BIT.jpeg"> -->
+<div>
+<img style="float: left; width: 75px" src="../zjlimages/edu/THU.jpeg">
+<img style="float: left" src="../zjlimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
   <font size="2">September 2022 -  <br></font> 
@@ -261,25 +261,15 @@ Education Experience
 </div>
 
 <div>
-<img style="float: left; width: 75px" src="../hyximages/edu/BIT.jpeg">
-<img style="float: left" src="../hyximages/border_row1.png" width="10px">
+<img style="float: left; width: 75px" src="../zjlimages/edu/BIT.jpeg">
+<img style="float: left" src="../zjlimages/border_row1.png" width="10px">
 <p style="line-height:125%">
   <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
   <font size="2">September 2018 - June 2022<br></font> 
   <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
   <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
 </p>  
-</div> -->
-
-
-<!-- ############## -->
-<!-- honors and awards -->
-<!-- ############## -->
-
-<!-- Honors & Awards -->
-<!-- ------ -->
-<!-- * Xu Scholarship Nomination (the highest honor in [BIT](https://english.bit.edu.cn/), 20 candidates per year), 2021
-* National Scholarship, 2020 -->
+</div>
 
 
 <!-- ############## -->
