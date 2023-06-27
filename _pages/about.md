@@ -66,11 +66,11 @@ Publications
 
 <br>
 
-<!-- <div>
-  <img style="float: left" src="../hyximages/pub/siggraph22-AdaMPI.gif" width="175px">
+<div>
+  <img style="float: left" src="../zjlimages/pub/RaBit.png" width="175px">
 </div>
 <div>
-  <img style="float: left" src="../hyximages/border_row2.png" width="10px">
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
 <div>
   <p style="line-height:125%">
@@ -97,7 +97,7 @@ Publications
 </div>
 
 <br>
-
+<!-- 
 <div>
   <img style="float: left" src="../hyximages/pub/ijcai21-IALS.png" width="175px">
 </div>
