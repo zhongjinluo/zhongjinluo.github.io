@@ -24,36 +24,6 @@ News
 * [2023.06] One paper got accepted by TVCG 2023.
 * [2023.03] One paper got accepted by CVPR 2023.
 
-
-<!-- ############## -->
-<!-- education -->
-<!-- ############## -->
-
-Education Experience
-------
-<!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
-<!-- <div>
-<img style="float: left; width: 75px" src="../hyximages/edu/THU.jpeg">
-<img style="float: left" src="../hyximages/border_row1.png" width="10px">
-<p style="line-height:125%">
-  <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
-  <font size="2">September 2022 -  <br></font> 
-  <font size="2">Ph.D. in Software Engineering at <a href="https://www.thss.tsinghua.edu.cn/en/">School of Software</a><br></font>
-</p>  
-</div>
-
-<div>
-<img style="float: left; width: 75px" src="../hyximages/edu/BIT.jpeg">
-<img style="float: left" src="../hyximages/border_row1.png" width="10px">
-<p style="line-height:125%">
-  <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
-  <font size="2">September 2018 - June 2022<br></font> 
-  <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
-  <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
-</p>  
-</div> -->
-
-
 <!-- ############## -->
 <!-- publications -->
 <!-- ############## -->
@@ -153,7 +123,9 @@ Publications
   </p>
 </div> -->
 
-<!-- **** -->
+<!-- ############## -->
+<!-- preprints -->
+<!-- ############## -->
 
 Preprints
 ------
@@ -165,6 +137,35 @@ Preprints
   <font size="2">December 2021 - April 2022<br></font> 
   <font size="2">Research Intern at Internet Graphics Group<br></font>
   <font size="2"> Mentored by <a href="http://jlyang.org/">Jiaolong Yang</a></font>
+</p>  
+</div> -->
+
+
+<!-- ############## -->
+<!-- education -->
+<!-- ############## -->
+
+Education Experience
+------
+<!-- <img style="float: left; width: 15%" src="..\hyximages\edu\BIT.jpeg"> -->
+<!-- <div>
+<img style="float: left; width: 75px" src="../hyximages/edu/THU.jpeg">
+<img style="float: left" src="../hyximages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>Tsinghua University, Beijing, China</b><br></font> 
+  <font size="2">September 2022 -  <br></font> 
+  <font size="2">Ph.D. in Software Engineering at <a href="https://www.thss.tsinghua.edu.cn/en/">School of Software</a><br></font>
+</p>  
+</div>
+
+<div>
+<img style="float: left; width: 75px" src="../hyximages/edu/BIT.jpeg">
+<img style="float: left" src="../hyximages/border_row1.png" width="10px">
+<p style="line-height:125%">
+  <font size="4"><b>Beijing Institute of Technology, Beijing, China</b><br></font> 
+  <font size="2">September 2018 - June 2022<br></font> 
+  <font size="2">B.E. in Computer Science at <a href="https://xuteli.bit.edu.cn/">Xu Class</a><br></font>
+  <font size="2"> <b>GPA 90.0, rank 2/56</b> <br></font>
 </p>  
 </div> -->
 
