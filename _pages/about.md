@@ -231,9 +231,9 @@ Preprints
       <br>
     </font> 
     <font size="2">
-      <a href="./">[paper]</a> /
-      [project (coming soon...)] /
-      [code (coming soon...)]
+      [paper] /
+      [project] /
+      [code]
     </font>
   </p>
 </div>
