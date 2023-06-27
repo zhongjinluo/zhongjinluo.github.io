@@ -224,11 +224,11 @@ Preprints
       In Submission
       <br>
     </font> 
-    <!-- <font size="2">
-      <a href="https://arxiv.org/abs/2108.02548">[paper]</a> / 
-      <a href="https://zhongjinluo.github.io/SimpModeling/">[project]</a> /
-      <a href="https://zhongjinluo.github.io/SimpModeling/">[code]</a>
-    </font> -->
+    <font size="2">
+      [paper] / 
+      [project] /
+      [code]
+    </font>
   </p>
 </div>
 
