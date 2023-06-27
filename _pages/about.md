@@ -37,12 +37,12 @@ Publications
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
 <div>
-  <p style="line-height:125%">
+  <p style="line-height:150%">
     <font size="4">
       <b>RaBit: Parametric Modeling of 3D Biped Cartoon Characters with a Topological-consistent Dataset</b>
       <br>
     </font> 
-    <font size="1">
+    <font size="2">
       <b>Zhongjin Luo*</b>, 
       Shengcai Cai*, 
       Jinguo Dong, 
@@ -82,7 +82,7 @@ Publications
       Jie Zhou, 
       Heming Zhu, 
       Dong Du, 
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>,
       <a href="http://sweb.cityu.edu.hk/hongbofu/publications.html">Hongbo Fu</a>
       <br>
     </font> 
