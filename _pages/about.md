@@ -18,7 +18,7 @@ Interests
 ------
 * Sketch-based 2D/3D Content Modeling
 * Multi-Modal 3D Content Generation and Reconstruction
-* Shape Representation & Geometric Processing
+* Shape Representation & Geometric Processing & Character Animation
 
 <!-- ############## -->
 <!-- news -->
