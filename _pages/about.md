@@ -230,11 +230,11 @@ Preprints
       Arxiv 2023 (Pre-Print Coming soon...)
       <br>
     </font> 
-    <font size="2">
+    <!-- <font size="2">
       [paper] /
       [project] /
       [code]
-    </font>
+    </font> -->
   </p>
 </div>
 
