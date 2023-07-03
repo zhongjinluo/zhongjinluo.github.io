@@ -62,9 +62,9 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="../files/SketchMetaface.pdf">[paper]</a> /
-      [project (coming soon...)] /
-      [code (coming soon...)]
+      <a href="../files/SketchMetaFace.pdf">[paper]</a> /
+      <a href="https://zhongjinluo.github.io/SketchMetaFace/">[project]</a> /
+      <a href="https://github.com/zhongjinluo/SketchMetaFace/">[code]</a>
     </font>
   </p>
 </div>
@@ -199,8 +199,7 @@ Preprints
     </font> 
     <font size="2">
       <a href="https://arxiv.org/abs/2303.06681">[paper]</a> /
-      [project (coming soon...)] /
-      [code (coming soon...)]
+      <a href="https://github.com/xmed-lab/DIF-Net/">[code]</a> /
     </font>
   </p>
 </div>
