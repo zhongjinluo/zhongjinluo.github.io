@@ -62,7 +62,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="../files/SketchMetaFace.pdf">[paper]</a> /
+      <a href="https://arxiv.org/abs/2307.00804">[paper]</a> /
       <a href="https://zhongjinluo.github.io/SketchMetaFace/">[project]</a> /
       <a href="https://github.com/zhongjinluo/SketchMetaFace/">[code]</a>
     </font>
