@@ -51,8 +51,8 @@ Publications
     </font> 
     <font size="2">
       <b>Zhongjin Luo</b>, 
-      Haolin Liu, 
-      Chenghong Li, 
+      <a href="https://haolinliu97.github.io/">Haolin Liu</a>, 
+      <a href="https://kevinlee09.github.io/">Chenghong Li</a>, 
       Wanghao Du,
       Zirong Jin,
       <a href="https://yinyunie.github.io/">Yinyu Nie</a>,
