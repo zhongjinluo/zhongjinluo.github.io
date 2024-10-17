@@ -195,7 +195,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      Pacific Graphics (<b>PG</b>b>), 2023
+      Pacific Graphics (<b>PG</b>), 2023
       <br>
     </font> 
     <font size="2">
