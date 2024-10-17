@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year Ph.D. student at the School of Science and Engineering of the Chinese University of Hong Kong (Shenzhen), under the supervision of <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a> at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab</a>. Prior to this, I received my B.S. degree in Software Engineering from Tongji University. My research interests lie in computer graphics and 3D deep learning, with a primary focus on 3D content generation and reconstruction.
+I am currently a third-year Ph.D. student at the School of Science and Engineering of the Chinese University of Hong Kong (Shenzhen), under the supervision of <a href="https://gaplab.cuhk.edu.cn/">Prof. Xiaoguang Han</a> at <a href="https://gaplab.cuhk.edu.cn/">GAP Lab</a>. Prior to this, I received my B.S. degree in Software Engineering from Tongji University. My research interests lie in computer graphics and 3D deep learning, with a primary focus on 3D content generation and reconstruction.
 
 <!-- ############## -->
 <!-- interests -->
