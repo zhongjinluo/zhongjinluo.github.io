@@ -43,7 +43,6 @@ Publications
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
-
 <div>
   <p style="line-height:118%">
     <font size="4">
@@ -74,6 +73,12 @@ Publications
 </div>
 <br>
 
+<div>
+  <img style="float: left" src="../zjlimages/pub/SketchMetaface.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
 <div>
   <p style="line-height:118%">
     <font size="4">
