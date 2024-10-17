@@ -26,6 +26,7 @@ Interests
 
 News
 ------
+* [2024.07] One paper got accepted by SIGGRAPH Asia 2024 (Journal).
 * [2023.06] One paper got accepted by MICCAI 2023.
 * [2023.06] One paper got accepted by TVCG 2023.
 * [2023.03] One paper got accepted by CVPR 2023.
