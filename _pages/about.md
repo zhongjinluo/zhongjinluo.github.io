@@ -43,6 +43,37 @@ Publications
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
+
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>GarVerseLOD: High-Fidelity 3D Garment Reconstruction from a Single In-the-Wild Image using a Dataset with Levels of Details</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Zhongjin Luo</b>, 
+      Haolin Liu, 
+      Chenghong Li, 
+      Wanghao Du,
+      Zirong Jin,
+      <a href="https://yinyunie.github.io/">Yinyu Nie</a>,
+      <a href="https://chenweikai.github.io/">Weikai Chen</a>,
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>
+      <br>
+    </font> 
+    <font size="2">
+      ACM Transactions on Graphics (Proc. SIGGRAPH Asia), 2024
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2307.00804">[paper]</a> /
+      <a href="https://zhongjinluo.github.io/SketchMetaFace/">[project]</a> /
+      <a href="https://github.com/zhongjinluo/SketchMetaFace/">[code]</a>
+    </font>
+  </p>
+</div>
+<br>
+
 <div>
   <p style="line-height:118%">
     <font size="4">
