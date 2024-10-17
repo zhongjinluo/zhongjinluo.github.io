@@ -16,8 +16,8 @@ I am currently a second-year Ph.D. student at the School of Science and Engineer
 
 Interests
 ------
+* 3D Content Generation and Reconstruction
 * Sketch-based 2D/3D Content Modeling
-* Multi-Modal 3D Content Generation and Reconstruction
 * Shape Representation & Geometric Processing & Character Animation
 
 <!-- ############## -->
