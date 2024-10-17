@@ -68,6 +68,7 @@ Publications
       <a href="./">[paper]</a> /
       <a href="./">[project]</a> /
       <a href="">[code]</a>
+      Coming soon...
     </font>
   </p>
 </div>
@@ -143,75 +144,6 @@ Publications
 <br>
 
 <div>
-  <img style="float: left" src="../zjlimages/pub/SimpModeling.jpeg" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:118%">
-    <font size="4">
-      <b><i>SimpModeling</i>: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
-      <br>
-    </font> 
-    <font size="2">
-      <b>Zhongjin Luo</b>, 
-      Jie Zhou, 
-      Heming Zhu, 
-      Dong Du, 
-      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>,
-      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>
-      <br>
-    </font> 
-    <font size="2">
-      ACM Symposium on User Interface Software and Technology (<b>UIST</b>), 2021
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2108.02548">[paper]</a> / 
-      <a href="https://zhongjinluo.github.io/SimpModeling/">[project]</a> /
-      <a href="https://github.com/zhongjinluo/SimpModeling/">[code]</a>
-    </font>
-  </p>
-</div>
-
-<!-- 
-<div>
-  <img style="float: left" src="../zjlimages/pub/ijcai21-IALS.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
-</div>
-<div>
-  <p style="line-height:125%">
-    <font size="4">
-      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
-      <br>
-    </font> 
-    <font size="2">
-      <b>Yuxuan Han</b>, 
-      <a href="http://jlyang.org/">Jiaolong Yang</a>, 
-      <a href="https://ying-fu.github.io/">Ying Fu</a>
-      <br>
-    </font> 
-    <font size="2">
-      International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2105.12660">[paper]</a> / 
-      <a href="https://github.com/yxuhan/IALS">[code]</a>
-    </font>
-  </p>
-</div> -->
-
-<!-- ############## -->
-<!-- preprints -->
-<!-- ############## -->
-
-Preprints
-------
-<div>
   <img style="float: left" src="../zjlimages/pub/CBCT.png" width="175px">
 </div>
 <div>
@@ -273,6 +205,70 @@ Preprints
     </font> -->
   </p>
 </div>
+<br>
+
+<div>
+  <img style="float: left" src="../zjlimages/pub/SimpModeling.jpeg" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b><i>SimpModeling</i>: Sketching Implicit Field to Guide Mesh Modeling for 3D Animalmorphic Head Design</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Zhongjin Luo</b>, 
+      Jie Zhou, 
+      Heming Zhu, 
+      Dong Du, 
+      <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>,
+      <a href="http://sweb.cityu.edu.hk/hongbofu/index.htm">Hongbo Fu</a>
+      <br>
+    </font> 
+    <font size="2">
+      ACM Symposium on User Interface Software and Technology (<b>UIST</b>), 2021
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2108.02548">[paper]</a> / 
+      <a href="https://zhongjinluo.github.io/SimpModeling/">[project]</a> /
+      <a href="https://github.com/zhongjinluo/SimpModeling/">[code]</a>
+    </font>
+  </p>
+</div>
+
+<!-- 
+<div>
+  <img style="float: left" src="../zjlimages/pub/ijcai21-IALS.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:125%">
+    <font size="4">
+      <b>Disentangled Face Attribute Editing via Instance-Aware Latent Space Search</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Yuxuan Han</b>, 
+      <a href="http://jlyang.org/">Jiaolong Yang</a>, 
+      <a href="https://ying-fu.github.io/">Ying Fu</a>
+      <br>
+    </font> 
+    <font size="2">
+      International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021 
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2105.12660">[paper]</a> / 
+      <a href="https://github.com/yxuhan/IALS">[code]</a>
+    </font>
+  </p>
+</div> -->
 
 <!-- ############## -->
 <!-- education -->
