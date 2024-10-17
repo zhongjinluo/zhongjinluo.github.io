@@ -96,7 +96,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      Transactions on Visualization and Computer Graphics (<b>TVCG</b>), 2023
+      Transactions on Visualization and Computer Graphics (TVCG), 2023
       <br>
     </font> 
     <font size="2">
@@ -131,7 +131,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023 
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023 
       <br>
     </font> 
     <font size="2">
@@ -163,7 +163,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      International Conference on Medical Image Computing&Computer Assisted Intervention (<b>MICCAI</b>), 2023
+      International Conference on Medical Image Computing&Computer Assisted Intervention (MICCAI), 2023
       <br>
     </font> 
     <font size="2">
@@ -195,7 +195,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      Pacific Graphics (<b>PG</b>), 2023
+      Pacific Graphics (PG), 2023
       <br>
     </font> 
     <font size="2">
@@ -228,7 +228,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      ACM Symposium on User Interface Software and Technology (<b>UIST</b>), 2021
+      ACM Symposium on User Interface Software and Technology (UIST), 2021
       <br>
     </font> 
     <font size="2">
