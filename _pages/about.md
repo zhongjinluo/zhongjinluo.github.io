@@ -195,14 +195,13 @@ Publications
       <br>
     </font> 
     <font size="2">
-      Arxiv 2023 (Pre-Print Coming soon...)
+      Pacific Graphics (<b>PG</b>b>), 2023
       <br>
     </font> 
-    <!-- <font size="2">
-      [paper] /
-      [project] /
-      [code]
-    </font> -->
+    <font size="2">
+      <a href="https://arxiv.org/abs/2309.05946">[paper]</a> /
+      <a href="https://github.com/LordLiang/GA-Sketching">[code]</a>
+    </font>
   </p>
 </div>
 <br>
