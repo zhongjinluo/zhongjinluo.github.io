@@ -55,6 +55,7 @@ Publications
       <a href="https://kevinlee09.github.io/">Chenghong Li</a>, 
       Wanghao Du,
       Zirong Jin,
+      Wanhu Sun,
       <a href="https://yinyunie.github.io/">Yinyu Nie</a>,
       <a href="https://chenweikai.github.io/">Weikai Chen</a>,
       <a href="https://gaplab.cuhk.edu.cn/">Xiaoguang Han</a>
@@ -65,9 +66,9 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="./">[paper]</a> /
-      <a href="./">[project]</a> /
-      <a href="">[code]</a>
+      <a href="https://garverselod.github.io/GarVerseLOD.pdf">[paper]</a> /
+      <a href="https://garverselod.github.io/">[project]</a> /
+      <a href="https://github.com/zhongjinluo/GarVerseLOD">[code]</a>
       Coming soon...
     </font>
   </p>
