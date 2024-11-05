@@ -69,7 +69,6 @@ Publications
       <a href="https://garverselod.github.io/GarVerseLOD.pdf">[paper]</a> /
       <a href="https://garverselod.github.io/">[project]</a> /
       <a href="https://github.com/zhongjinluo/GarVerseLOD">[code]</a>
-      Coming soon...
     </font>
   </p>
 </div>
