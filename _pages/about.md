@@ -66,7 +66,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://garverselod.github.io/GarVerseLOD.pdf">[paper]</a> /
+      <a href="https://arxiv.org/abs/2411.03047">[paper]</a> /
       <a href="https://garverselod.github.io/">[project]</a> /
       <a href="https://github.com/zhongjinluo/GarVerseLOD">[code]</a>
     </font>
