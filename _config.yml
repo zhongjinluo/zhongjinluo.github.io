@@ -84,7 +84,7 @@ author:
   avatar           : "../zjlimages/placeholder.png"
   # bio              : ""
   bio              : "Postdoctoral Research Fellow @ CUHK"
-  location         : "Shenzhen, China"
+  location         : #"Shenzhen, China"
   employer         :
   pubmed           : # ""
   googlescholar    : "https://zhongjinluo.github.io/"
