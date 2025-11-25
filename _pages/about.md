@@ -59,6 +59,7 @@ Publications
     </font> 
     <font size="2">
       <a href="https://arxiv.org/abs/2506.18017">[paper]</a>
+      <a href="https://haolinliu97.github.io/Stable-Score/">[project]</a> 
     </font>
   </p>
 </div>
@@ -95,7 +96,8 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2503.21766">[paper]</a>
+      <a href="https://arxiv.org/abs/2501.16177">[paper]</a>
+      <a href="https://bag-3d.github.io/">[project]</a> 
     </font>
   </p>
 </div>
