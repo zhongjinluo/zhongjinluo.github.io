@@ -95,7 +95,7 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2506.18017">[paper]</a>
+      <a href="https://arxiv.org/abs/2503.21766">[paper]</a>
     </font>
   </p>
 </div>
