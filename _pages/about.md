@@ -38,6 +38,43 @@ News
 Publications
 ------
 <div>
+  <img style="float: left" src="../zjlimages/pub/BAG.jpeg" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>BAG: Body-Aligned 3D Wearable Asset Generation</b>
+      <br>
+    </font> 
+    <font size="2">
+      <b>Zhongjin Luo</b>, 
+      Yang Li, 
+      Mingrui Zhang, 
+      Senbo Wang,
+      Han Yan,
+      Xibin Song,
+      Taizhang Shang, 
+      Wei Mao, 
+      Hongdong Li, 
+      Xiaoguang Han,
+      Pan Ji
+      <br>
+    </font> 
+    <font size="2">
+      Arxiv preprint 2025, 2025
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2506.18017">[paper]</a>
+    </font>
+  </p>
+</div>
+<br>
+
+<div>
   <img style="float: left" src="../zjlimages/pub/GarVerseLOD.png" width="175px">
 </div>
 <div>
