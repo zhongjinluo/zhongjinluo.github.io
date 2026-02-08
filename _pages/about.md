@@ -43,27 +43,6 @@ Publications
 <div>
   <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
 </div>
-<div>
-  <p style="line-height:118%">
-    <font size="4">
-      <b>Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence</b>
-      <br>
-    </font> 
-    <font size="2"> 
-      Haolin Liu, Xiaohang Zhan, Zizheng Yan, <b>Zhongjin Luo</b>, Yuxin Wen, Xiaoguang Han
-      <br>
-    </font> 
-    <font size="2">
-      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
-      <br>
-    </font> 
-    <font size="2">
-      <a href="https://arxiv.org/abs/2506.18017">[paper]</a>
-      <a href="https://haolinliu97.github.io/Stable-Score/">[project]</a> 
-    </font>
-  </p>
-</div>
-<br>
 
 <div>
   <img style="float: left" src="../zjlimages/pub/BAG.jpeg" width="175px">
@@ -92,12 +71,34 @@ Publications
       <br>
     </font> 
     <font size="2">
-      Arxiv preprint, 2025
+      Transactions on Visualization and Computer Graphics (TVCG), 2026
       <br>
     </font> 
     <font size="2">
       <a href="https://arxiv.org/abs/2501.16177">[paper]</a>
       <a href="https://bag-3d.github.io/">[project]</a> 
+    </font>
+  </p>
+</div>
+<br>
+
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>Stable-SCore: A Stable Registration-based Framework for 3D Shape Correspondence</b>
+      <br>
+    </font> 
+    <font size="2"> 
+      Haolin Liu, Xiaohang Zhan, Zizheng Yan, <b>Zhongjin Luo</b>, Yuxin Wen, Xiaoguang Han
+      <br>
+    </font> 
+    <font size="2">
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2506.18017">[paper]</a>
+      <a href="https://haolinliu97.github.io/Stable-Score/">[project]</a> 
     </font>
   </p>
 </div>
