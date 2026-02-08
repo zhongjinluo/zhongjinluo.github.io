@@ -107,8 +107,8 @@ Publications
       <br>
     </font> 
     <font size="2">
-      <a href="https://arxiv.org/abs/2501.16177">[paper]</a> /
-      <a href="https://reconvia.github.io/">[project]</a> 
+      <a href="https://arxiv.org/abs/2510.23306">[paper]</a> /
+      <a href="https://jiahao620.github.io/reconviagen/">[project]</a> 
     </font>
   </p>
 </div>
