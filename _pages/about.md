@@ -38,13 +38,6 @@ News
 Publications
 ------
 <div>
-  <img style="float: left" src="../zjlimages/pub/stable-score.png" width="175px">
-</div>
-<div>
-  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
-</div>
-
-<div>
   <img style="float: left" src="../zjlimages/pub/BAG.jpeg" width="175px">
 </div>
 <div>
@@ -82,6 +75,12 @@ Publications
 </div>
 <br>
 
+<div>
+  <img style="float: left" src="../zjlimages/pub/stable-score.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
 <div>
   <p style="line-height:118%">
     <font size="4">
