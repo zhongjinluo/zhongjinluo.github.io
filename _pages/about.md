@@ -79,6 +79,42 @@ Publications
 <br>
 
 <div>
+  <img style="float: left" src="../zjlimages/pub/ReconViaGen.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>ReconViaGen: Towards Accurate Multi-view 3D Object Reconstruction via Generation</b>
+      <br>
+    </font> 
+    <font size="2">
+      Jiahao Chang, 
+      Chongjie Ye, 
+      Yushuang Wu, 
+      Yuantao Chen, 
+      Yidan Zhang, 
+      <b>Zhongjin Luo</b>, 
+      Chenghong Li, 
+      Yihao Zhi, 
+      Xiaoguang Han
+      <br>
+    </font> 
+    <font size="2">
+      International Conference on Learning Representations (ICLR), 2026
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2501.16177">[paper]</a> /
+      <a href="https://reconvia.github.io/">[project]</a> 
+    </font>
+  </p>
+</div>
+<br>
+
+<div>
   <img style="float: left" src="../zjlimages/pub/stable-score.png" width="175px">
 </div>
 <div>
