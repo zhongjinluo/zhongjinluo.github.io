@@ -80,6 +80,39 @@ Publications
 <br>
 
 <div>
+  <img style="float: left" src="../zjlimages/pub/hianimal.png" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>HiAnimal: Towards High-Fidelity and Animatable Mesh Reconstruction From Single-View In-the-Wild Animal Images</b>
+      <br>
+    </font> 
+    <font size="2">
+      Huimin Zhang*,
+      <b>Zhongjin Luo*</b>, 
+      Kenkun Liu, 
+      Xihe Yang, 
+      Haolin Liu,
+      Weikai Chen,
+      Xiaoguang Han
+      <br>
+    </font> 
+    <font size="2">
+      Transactions on Visualization and Computer Graphics (TVCG), 2026
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://ieeexplore.ieee.org/document/11409375">[paper]</a> 
+    </font>
+  </p>
+</div>
+<br>
+
+<div>
   <img style="float: left" src="../zjlimages/pub/ReconViaGen.png" width="175px">
 </div>
 <div>
