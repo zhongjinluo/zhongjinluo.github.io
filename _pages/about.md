@@ -54,7 +54,7 @@ Publications (* equal contribution, # corresponding author)
       <br>
     </font> 
     <font size="2"> 
-      Wanhu Sun, <b>Zhongjin Luo#</b>, Heliang Zheng, Jiahao Chang, Chongjie Ye, Huiang He, Shengchu Zhao, Rongfei Jia, Xiaoguang Han
+      Wanhu Sun, <b>Zhongjin Luo#</b>, Heliang Zheng, Jiahao Chang, Chongjie Ye, Huiang He, Shengchu Zhao, Rongfei Jia, Xiaoguang Han#
       <br>
     </font> 
     <font size="2">
