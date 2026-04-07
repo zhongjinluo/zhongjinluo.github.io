@@ -39,7 +39,9 @@ News
 <!-- publications -->
 <!-- ############## -->
 
-Publications (* equal contribution, # corresponding author)
+Publications 
+(* equal contribution, # corresponding author)
+
 ------
 <div>
   <img style="float: left" src="../zjlimages/pub/EI-Part.jpg" width="175px">
