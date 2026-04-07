@@ -42,6 +42,34 @@ News
 Publications
 ------
 <div>
+  <img style="float: left" src="../zjlimages/pub/EI-Part.jpg" width="175px">
+</div>
+<div>
+  <img style="float: left" src="../zjlimages/border_row2.png" width="10px">
+</div>
+<div>
+  <p style="line-height:118%">
+    <font size="4">
+      <b>EI-Part: Explode for Completion and Implode for Refinement</b>
+      <br>
+    </font> 
+    <font size="2"> 
+      Wanhu Sun, <b>Zhongjin Luo</b>, Heliang Zheng, Jiahao Chang, Chongjie Ye, Huiang He, Shengchu Zhao, Rongfei Jia, Xiaoguang Han
+      <br>
+    </font> 
+    <font size="2">
+      IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026
+      <br>
+    </font> 
+    <font size="2">
+      <a href="https://arxiv.org/abs/2603.14021">[paper]</a> /
+      <a href="https://cvhadessun.github.io/EI-Part/">[project]</a> 
+    </font>
+  </p>
+</div>
+<br>
+
+<div>
   <img style="float: left" src="../zjlimages/pub/BAG.jpeg" width="175px">
 </div>
 <div>
